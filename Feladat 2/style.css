@@ -1,0 +1,6 @@
+#grid{
+    width: 300px;
+    aspect-ratio: 4/3;
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(4, 1fr);
+}

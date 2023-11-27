@@ -1,0 +1,6 @@
+#grid {
+    width: 300px;
+    aspect-ratio: 1;
+    display: grid;
+    grid-template: 1fr 1fr/ 1fr 1fr;
+}
